@@ -1,14 +1,14 @@
 # Angelo Giocondo Portfolio
 Angelo Giocondo Photography Portfolio
 
-This is a multi-page webpage showcasing my photography work over the last 3 years.
+This portfolio is a multi-page webpage created for my web authoring course. It showcases my photography interests, background, and equipment along with a gallery containing some of my favorite photos I've taken over the past 3 years.
 
-The HTML skeleton is built and validated.
-There is a small outline of CSS built with a color-palette.
-There is no javascript.
+This site was built using semantic HTML and responsive CSS
 
 Pages:
--Home (index.html)
+-Home (index.html) 
 -About Me (about.html)
 -My Gear (gear.html)
 -Gallery (gallery.html)
+
+Published site: https://agiocond-ghub.github.io/Angelo-Giocondo-Portfolio/
