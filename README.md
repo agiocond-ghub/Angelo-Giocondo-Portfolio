@@ -10,5 +10,5 @@ There is no javascript.
 Pages:
 -Home (index.html)
 -About Me (about.html)
--Gear I Use (gear.html)
--My Photos (photos.html)
+-My Gear (gear.html)
+-Gallery (gallery.html)
